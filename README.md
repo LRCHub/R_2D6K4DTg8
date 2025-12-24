@@ -1,0 +1,70 @@
+# One Direction – Heart Attack
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Baby you got me sick
+I don't know what I did
+Need to take a break and
+figure it out (yeah)
+Got your voice in my head
+Saying let's just be friends
+Can't believe the words came
+out of your mouth (Yeah)
+I'm tryna' be ok
+I'm try'na be alright
+But seeing you with him
+Just don’t feel right
+And I’m like,
+never thought it’d hurt so bad
+Getting over you, and
+You’re giving me a heart attack
+Looking like you do
+Cause you’re all I ever wanted,
+thought you would
+be the one it’s
+Giving me a heart attack
+Getting over you
+Baby now that you’re gone
+I can’t stand dumb love songs
+Missing you is all I’m
+thinking about (yeah)
+Everyone’s telling me
+I’m just too blind to see
+How you messed me up,
+I’m better off now (yeah)
+I'm tryna' be ok
+I'm try'na be alright
+But seeing you with him
+Just don’t feel right
+And I’m like,
+never thought it’d hurt so bad
+Getting over you, and
+You’re giving me a heart attack
+Looking like you do
+Cause you’re all I ever wanted,
+thought you would
+be the one it’s
+Giving me a heart attack
+Getting over you
+Yeah, every time you
+look like that (oh)
+You’re giving me a heart attack
+Seeing you with him,
+just don’t feel right
+And I’m like,
+never thought it’d hurt so bad
+Getting over you, and
+You’re giving me a heart attack
+Looking like you do
+Cause you’re all I ever wanted,
+thought you would
+be the one it’s
+Giving me a heart attack
+getting over you
+You, you’re all I ever wanted
+Yeah, every time you
+look like that
+You’re all I ever wanted
+You’re giving me a heart attack
+```
