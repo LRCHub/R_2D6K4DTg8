@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Heart Attack",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:02:24.715553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheatin' Heart Attack",
+      "artist": "Dale Watson",
+      "has_synced": true,
+      "path": "select/01_Cheatin'_Heart_Attack_Dale_Watson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sheer Heart Attack",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_Sheer_Heart_Attack_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be Quiet Mt. Heart Attack!",
+      "artist": "Liars",
+      "has_synced": false,
+      "path": "select/03_Be_Quiet_Mt._Heart_Attack!_Liars.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Its All Blooming Now Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": false,
+      "path": "select/04_Its_All_Blooming_Now_Mt._Heart_Attack_Liars.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Other Side of Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/05_The_Other_Side_of_Mt._Heart_Attack_Liars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Other Side Of Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/06_Other_Side_Of_Mt._Heart_Attack_Liars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Wrong Coat For You Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/07_The_Wrong_Coat_For_You_Mt._Heart_Attack_Liars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wrong Coat For You Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/08_Wrong_Coat_For_You_Mt._Heart_Attack_Liars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heart Attack",
+      "artist": "Wavves",
+      "has_synced": true,
+      "path": "select/09_Heart_Attack_Wavves.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heart Attack",
+      "artist": "Dave",
+      "has_synced": true,
+      "path": "select/10_Heart_Attack_Dave.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heart Attack Kid",
+      "artist": "Bass Drum Of Death",
+      "has_synced": true,
+      "path": "select/11_Heart_Attack_Kid_Bass_Drum_Of_Death.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heart Attack Man",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/12_Heart_Attack_Man_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heart Attack",
+      "artist": "Raven",
+      "has_synced": false,
+      "path": "select/13_Heart_Attack_Raven.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heart Attack",
+      "artist": "Grave Digger",
+      "has_synced": true,
+      "path": "select/14_Heart_Attack_Grave_Digger.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heart Attack",
+      "artist": "Toxik",
+      "has_synced": true,
+      "path": "select/15_Heart_Attack_Toxik.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heart Attack",
+      "artist": "Sum 41",
+      "has_synced": true,
+      "path": "select/16_Heart_Attack_Sum_41.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heart Attack",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/17_Heart_Attack_Demi_Lovato.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heart Attack",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Heart_Attack_One_Direction.txt"
+    }
+  ]
+}
